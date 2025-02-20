@@ -4,6 +4,7 @@
 This repository contains three DevOps projects in different domains: Banking & Finance, Healthcare, and Insurance. Each project follows a microservices architecture with CI/CD implementation and automation using various DevOps tools.
 
 Additionally, this repository contains my hands-on practices on tools like AWS, Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, and Grafana. For reference, I have also added my resume and my DevOps certifications.
+
 ---
 
 ## 1. FinanceMe (Banking & Finance Domain)
