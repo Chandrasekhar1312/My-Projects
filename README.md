@@ -27,45 +27,6 @@ FinanceMe is a global banking and financial services provider. The project focus
 
 ---
 
-## 2️⃣ Medicure (🏥 Healthcare Domain)
-Medicure is a hospital chain managing doctors and patient data across multiple locations. The project automates build and deployment processes using Kubernetes and DevOps tools.
-
-### **🛠️ Tech Stack & Tools:**
-- ☕ Spring Boot, H2 Database
-- 🖥️ Git, 🔧 Jenkins, 📦 Maven
-- 🐳 Docker, ☸️ Kubernetes
-- ⚙️ Ansible, 📜 Terraform
-- 📊 Prometheus, 📈 Grafana (Monitoring)
-
-### **✨ Features:**
-- 📌 REST APIs for doctor registration, updating, searching, and deletion
-- ⚡ Automated CI/CD pipeline with Jenkins
-- ☸️ Kubernetes for container orchestration
-- 🔍 Multi-server cluster monitoring using Prometheus & Grafana
-
-[🔗 Project Code & Details](https://github.com/Chandrasekhar1312/health-care-code.git)
-
----
-
-## 3️⃣ InsureMe (🛡️ Insurance Domain)
-InsureMe is a global insurance provider. The project focuses on implementing microservices, automating deployments, and integrating monitoring solutions.
-
-### **🛠️ Tech Stack & Tools:**
-- ☕ Spring Boot, H2 Database
-- 🖥️ Git, 🔧 Jenkins, 📦 Maven
-- 🐳 Docker, ☁️ AWS EC2
-- ⚙️ Ansible
-
-### **✨ Features:**
-- 📌 REST APIs for policy creation, updating, viewing, and deletion
-- ⚡ CI/CD pipeline for automated builds and deployment
-- ☁️ AWS-based infrastructure for deployment automation
-- 🔍 Continuous monitoring setup
-
-[🔗 Project Code & Details](https://github.com/Chandrasekhar1312/insurance-project-code.git)
-
----
-
 ## 📖 How to Use
 1️⃣ Clone this repository 🛠️
 2️⃣ Navigate to the desired project folder 📂
